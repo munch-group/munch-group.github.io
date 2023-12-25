@@ -27,6 +27,6 @@ As of 2024, research projects in the group are hosted at our [GitHub organizatio
 
 This listing will link to pages rendering each completed project:
 
-- ...
+- ....
 
 
