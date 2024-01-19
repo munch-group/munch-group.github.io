@@ -9,7 +9,7 @@ menu: main
     <p>PI</p>
 </header>
 
-<p><span class="image left"><img src="images/kasper.jpg" /></span>Applies population genomic analysis and modelling to understand the fundamental properties and mechanisms of selection, recombination, and speciation. Model organisms are mostly humans and other primates.</p>
+<p><span class="image left"><img src="images/kasper_portait.png" /></span>Applies population genomic analysis and modelling to understand the fundamental properties and mechanisms of selection, recombination, and speciation. Model organisms are mostly humans and other primates.</p>
 
 [ORCID Profile](https://orcid.org/0000-0003-2880-6252) - 
 [kaspermunch@birc.au.dk](mailto:kaspermunch@birc.au.dk)
