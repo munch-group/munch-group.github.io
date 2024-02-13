@@ -20,7 +20,7 @@ layout: landing
 <div class="inner">
 <header class="major"> 
 <h2>BiRC, Molecular Biology and Genetics, Aarhus University</h2>
-<p>We use population genomic analysis and modelling to address the fundamental mechanisms of evolution <br>- with  a special affinity for the unique role of sex chromosomes.</p>
+<p>We use population genomic analysis and modelling the fundamental mechanisms of evolution to understand how these affect species formation and human health</p>
 </header>
 </div>
 	<ul class="icons major">
