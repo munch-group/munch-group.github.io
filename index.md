@@ -6,11 +6,11 @@ layout: landing
 <div class="inner">
 <h2>{{ site.title }}</h2>
 <p>{{ site.description | markdownify }}</p>
-<!--
+
 	<ul class="actions special">
-		<li><a href="joinus.html" class="button special">Ph.D. position available</a></li>
+		<li><a href="joinus.html" class="button special">Postdoc position available</a></li>
 	</ul>
--->
+
 </div>
 <a href="#one" class="more scrolly">Learn More</a>
 </section>
