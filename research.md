@@ -28,10 +28,15 @@ I propose a model where antagonizing selfish gene variants on the X and Y chromo
 
 ## Project archive
 
-As of 2024, research projects in the group are hosted at our [GitHub organization](https://github.com/munch-group)
+As of 2024, research projects in the group are hosted at the groups [GitHub page](https://github.com/munch-group)
 
-This listing will link to pages rendering each completed project:
+<!--
 
-- ....
+### Simulation of frequency dynamics under meiotic drive
 
+### X chromosome sweeps in African populations
+
+### Admixture and hybrid incompatibility among baboon species
+
+-->
 
