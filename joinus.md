@@ -9,7 +9,7 @@ menu: main
 I am looking for a talented graduate student to do a PhD in my research group on the population genomics of intra-genomic conflict in primates. Specifically, how sex-chromosome meiotic drive generates reproductive barriers through infertility of male hybrids. The application deadline is May 1. and the student would begin Aug. 1. The student would join several others at BiRC working with similar questions, and the salary is quite generous. [Send me an email](mailto:kaspermunch@birc.au.dk) to hear mor if you are interested.
 -->
 
-## Postdoc: How intra-genomic conflicts in spermatogenesis shape the genetic basis of autism
+## Postdoc available: How intra-genomic conflicts in spermatogenesis shape the genetic basis of autism
 
 If you would like to investigate how and why the X chromosome contributes to autism and its sex-differences, then we invite you to make this project yours. Despite recent reports suggesting an outsize influence of the X chromosome on autism and its sex differences, we still know very little about its genetic basis. Recent research from our group has revealed uniquely strong natural selection on the human X chromosome, best explained by selfish X-genes promoting their natural selection in spermatogenesis by killing sperm cells that carry the Y chromosome. Such selfish advantage in spermatogenesis easily trumps modest deleterious effects such gene variants may have on brain development. A pilot study of the X chromosome reveals that neuron genes also expressed in spermatogenesis indeed are enriched for association with autism and that gene classes with sex-specific brain expression associate with autism sex bias. We invite applicants to shape and carry out this postdoc project.
 
