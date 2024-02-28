@@ -19,7 +19,7 @@ layout: landing
 <section id="one" class="wrapper style1 special">
 <div class="inner">
 <header class="major"> 
-<h2>BiRC, Molecular Biology and Genetics, Aarhus University</h2>
+<h2>Bioinformatics Research Centre, MBG, Aarhus University</h2>
 <p>We use population genomic analysis and modelling the fundamental mechanisms of evolution to understand how these affect species formation and human health</p>
 </header>
 </div>
