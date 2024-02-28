@@ -95,13 +95,13 @@
 		),
 
 		accent5: (
-			bg:				#445398,
+			bg:			#281c41, //	#445398,
 			fg-bold:		#ffffff,
-			fg:				mix(#445398, #ffffff, 25%),
-			fg-light:		mix(#445398, #ffffff, 40%),
-			// bg:				#505393,
+			fg:			mix(#281c41, #ffffff, 25%),
+			fg-light:		mix(#281c41, #ffffff, 40%),
+			// bg:			#505393,
 			// fg-bold:		#ffffff,
-			// fg:				mix(#505393, #ffffff, 25%),
+			// fg:			mix(#505393, #ffffff, 25%),
 			// fg-light:		mix(#505393, #ffffff, 40%),
 			border:			rgba(0,0,0,0.125),
 			border-bg:		rgba(255,255,255,0.075),
