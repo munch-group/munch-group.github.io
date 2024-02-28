@@ -20,7 +20,7 @@ layout: landing
 <div class="inner">
 <header class="major"> 
 <h2>Bioinformatics Research Centre, MBG, Aarhus University</h2>
-<p>We use population genomic analysis and modelling the fundamental mechanisms of evolution to understand how these affect species formation and human health</p>
+<p>We are computational biologists analyzing and modelling the fundamental mechanisms of evolution to better understand how these affect species formation and human health</p>
 </header>
 </div>
 	<ul class="icons major">
