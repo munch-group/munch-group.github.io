@@ -28,8 +28,8 @@ I propose a model where antagonizing selfish gene variants on the X and Y chromo
 
 ## Project archive
 
-<p><span class="image right"><img src="images/archive.png" /></span>As of 2024, research projects in the group are hosted at the groups [GitHub page](https://github.com/munch-group)
-</p>
+As of 2024, research projects in the group are hosted at the groups [GitHub page](https://github.com/munch-group)
+
 
 <!--
 
