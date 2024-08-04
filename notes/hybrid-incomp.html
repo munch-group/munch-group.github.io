@@ -1,0 +1,974 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.56">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Hybrid incomp – Title of your project</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../notes/ideas.html" rel="next">
+<link href="../notes/funding.html" rel="prev">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar floating">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../notes/chromatin.html">Notes</a></li><li class="breadcrumb-item"><a href="../notes/hybrid-incomp.html"><span class="chapter-title">Hybrid incomp</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="../">Title of your project</a> 
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Project</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Notes</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../notes/chromatin.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chromatin</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../notes/funding.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Funding</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../notes/hybrid-incomp.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Hybrid incomp</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../notes/ideas.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Ideas / notes</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../notes/mbg-exercises.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">MBG exercises</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../notes/meiotic-drive.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Meiotic drive</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../notes/notes.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Funding</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../notes/phasetype.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Phase-type dist</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../notes/prdm9.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">PRDM9</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../notes/sex-antagonistic.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chromatin</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../notes/spermatogenesis.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Spermatogenesis</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../notes/strategy.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Research strategy</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../notes/x-brain.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">X-brain</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../notes/xi-msci.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Xi and MSCI</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">References</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul class="collapse">
+  <li><a href="#baboons-3939" id="toc-baboons-3939" class="nav-link active" data-scroll-target="#baboons-3939">Baboons (39/39)</a></li>
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a>
+  <ul class="collapse">
+  <li><a href="#baboon-hybridization" id="toc-baboon-hybridization" class="nav-link" data-scroll-target="#baboon-hybridization">Baboon hybridization</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../notes/chromatin.html">Notes</a></li><li class="breadcrumb-item"><a href="../notes/hybrid-incomp.html"><span class="chapter-title">Hybrid incomp</span></a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-title">Hybrid incomp</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>More MAP on X<br>
+Stronger negative selection on MAP on X<br>
+Only neg sel on MAP away from active hybrid zone<br>
+More MAP on X associate with stronger neg sel on MAP<br>
+Extra MAP on X is not introduced but retained during swamping</p>
+<section id="baboons-3939" class="level2">
+<h2 class="anchored" data-anchor-id="baboons-3939">Baboons (39/39)</h2>
+<p>More MAP on X<br>
+Stronger negative selection on MAP on X<br>
+Only neg sel on MAP away from active hybrid zone<br>
+More MAP on X associate with stronger neg sel on MAP<br>
+Extra MAP on X is not introduced but retained during swamping</p>
+<ul>
+<li>Jenny Tung paper<br>
+</li>
+<li>Read email from Cliff
+<ul>
+<li>📄 Re- new trees.eml<br>
+</li>
+<li>file:///Users/kmt/Library/Containers/com.microsoft.Outlook/Data/tmp/5A48BE4C-6BD1-4978-9F09-242DE7480F35/Re-%20new%20trees.eml<br>
+</li>
+<li></li>
+</ul></li>
+<li>Read Molly Sordtail fish papers<br>
+</li>
+<li>Read RFmix paper
+<ul>
+<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3738819/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3738819/</a><br>
+</li>
+</ul></li>
+<li>Is major parent ancestry more correlated than admix prop when comparing Ethiopian and Tanzanian olives?<br>
+</li>
+<li>Does the correlation between admixture and background diversity simply come from a shared dependency on recombination rate? Should we “recombination-normalize” admixture proportion like in mollys paper?<br>
+</li>
+<li>Could x incompatibility alone explain autosomal gradient away from zone?<br>
+</li>
+<li>See if rec rate correlates better with purity of ancestry than with admixture<br>
+</li>
+<li>What is the correspondance between (olive) recombination rate and the hamadryas segment lengths?
+<ul>
+<li>Can we infer suppression of recombination between olive and hama haplotypes, given that the admixture time is shared for the entire chromosome?<br>
+</li>
+</ul></li>
+<li>See where the ECH regions are in the Ethiopian olives<br>
+</li>
+<li>Eriks X/A smc++ plots showing low ratio recently shows the opposite as would be expected from stronger pop struct / less adixture on X. pi is not reduced rel to A due to less admixture on X<br>
+</li>
+<li>Explain why X incompatibility persists in Ethiopian olives when the olive Y is already fixed
+<ul>
+<li>Could it be:<br>
+</li>
+<li>- cis interactions on X<br>
+</li>
+<li>- X-A interactions of segments that remain hamadryas<br>
+</li>
+<li>- Y/X/mt interactions?<br>
+</li>
+<li></li>
+<li>Possible scenario:<br>
+</li>
+<li>1. Olive Y and X regions invade hamadryas<br>
+</li>
+<li>2. Olive X / hamadryas MT incompatibility upholds reproductive barriers on parts of X<br>
+</li>
+<li>This could explain why:<br>
+</li>
+<li>- X incompatibility presists<br>
+</li>
+<li>- Y haplotype diversity is shallow even when spanning several species<br>
+</li>
+<li>- MT remains more or less in the original species range.<br>
+</li>
+<li></li>
+</ul></li>
+<li>Add recombination rate to baboon pymc model<br>
+</li>
+<li>Plot Admixture In yellows vs olives. see if the correlation *grows* with distance from hyb zone
+<ul>
+<li>If so that can only be explained by<br>
+</li>
+<li>- hybrid incomp<br>
+</li>
+<li>- BGS -&gt; less ILS<br>
+</li>
+<li>-<br>
+</li>
+<li>In the ILS case both cases case the there shoul be less admixture wehre there is lower background Ne. but it need not be the case for hybrid incomp if that is not tied to regions with many conserved genes.<br>
+</li>
+<li></li>
+</ul></li>
+<li>Regress yellow vs olive admixture and stratify background Ne to control for ILS contribution<br>
+</li>
+<li>Prøv også lige en spearman correlation af north_sum mellem alle tre par af Tarangire serengeti og mikumi<br>
+</li>
+<li>Try to do spearman only on windows with admixture in both species<br>
+</li>
+<li>Do tree stat only on variants ancestral to either all olive or all hamadryas segments in gog. Do rolling avg to see if the stat is higher in pure regions<br>
+</li>
+<li>Why du we need to estimate demography if relate stat is combinatorics<br>
+</li>
+<li>Look at demography for pure regions. With relate demography og ML demog using Rasmus heller trick on trees<br>
+</li>
+<li>Eriks residuals are not normal<br>
+</li>
+<li>What is the expected distribution of admixture proportions under neutral<br>
+</li>
+<li>How do admix prop and mean and variance parent segment length relate to each other under neutrality?<br>
+</li>
+<li>If you go along the genuine in windows, what is the mean and variance in admixture segments spanning that window? Can I make confidence intervals for the expectations under neutrality?<br>
+</li>
+<li>SINGER on baboons<br>
+</li>
+<li>See if olive homozygous sister chromosome divergence relative to rest is higher on d than auto<br>
+</li>
+<li>Read: Jennys paper<br>
+</li>
+<li>Read: John Pools paper and write back to him<br>
+</li>
+<li>Read: Mollys paper<br>
+</li>
+<li>Make a rolling regressions of …
+<ul>
+<li>Regression explaining olive content in yellow from hamadryas content in Ethiopians (and recombination rate and phastcons score or my interferrence score)<br>
+</li>
+<li>Regression explaining olive content in yellow from “ancestry purity” (max(MPA, 1-MPA)) in Ethiopians (and recombination rate and phastcons score or my interferrence score)<br>
+</li>
+<li>If “purity” explans better than admixture prop, then it suggests BDMI<br>
+</li>
+</ul></li>
+<li>Hierarchical Binomial Model: Rat Tumor Example — PyMC example gallery
+<ul>
+<li>https://www.pymc.io/projects/examples/en/latest/generalized_linear_models/GLM-hierarchical-binomial-model.html<br>
+</li>
+</ul></li>
+<li>Do accelerated retions in simiiformes map to A/B borders?<br>
+</li>
+<li>prob_nr_runs can be low both becuase of long 1 runs and long 0 runs, right? Is there a way to seperate those in the statistic? Can I maybe also test if the distribution of 1 runs is significantly different (few long runs) from the null expectation? maybe comparing CDFs of null and observed?<br>
+</li>
+<li>Read: “Dynamics of Meiotic Sex Chromosome Inactivation1and Pachytene Activation in Mice Spermatogenesis” and “The Initiation of Meiotic Sex ChromosomeInactivation Sequesters DNA Damage Signaling fromAutosomes in Mouse Spermatogenesis”<br>
+</li>
+<li>The Mosaic Ancestry of the Drosophila Genetic Reference Paneland the D. melanogaster Reference Genome Reveals a Networkof Epistatic Fitness Interactions<br>
+</li>
+<li>Identify the pipelines and data I need to continue baboon project<br>
+</li>
+<li>It makes sense that northern yellows have “bars” like gog if they are holdouts from a swamping of yellows into “olives”<br>
+</li>
+<li>Include Y and MT ancestry as covariates in Awash analysis<br>
+</li>
+<li>Think about FNU project 1 for september</li>
+</ul>
+<p>Human and Baboon/Maccaque maps<br>
+Moi’s archaic deserts<br>
+ECH<br>
+Aris relate results<br>
+low-ILS regions<br>
+Melissa’s neanderthal-human admixture</p>
+<p># Sweeps/BDMI and chromatin pilot (34/34)</p>
+<p>Human and Baboon/Maccaque maps<br>
+Moi’s archaic deserts<br>
+ECH<br>
+Aris relate results<br>
+low-ILS regions<br>
+Melissa’s neanderthal-human admixture</p>
+<ul>
+<li>ECHs mapped to baboon:…</li>
+</ul>
+<p>chrX 18387005 18910599 chrX:21100001-21600000 1<br>
+chrX 33549708 33920454 chrX:36000001-36400000 1<br>
+chrX 34669048 35181129 chrX:37200001-37700000 1<br>
+chrX 46673750 47183359 chrX:49500001-50000000 1<br>
+chrX 47990487 48527664 chrX:50800001-51300000 1<br>
+chrX 50646716 51049899 chrX:54000001-54400000 1<br>
+chrX 56788886 57218696 chrX:64600001-65100000 1<br>
+chrX 65166044 65658803 chrX:73000001-73500000 1<br>
+chrX 65958473 66543485 chrX:73800001-74400000 1<br>
+chrX 68210470 68802288 chrX:76700001-77300000 1<br>
+chrX 89430636 89841104 chrX:98500001-98900000 1<br>
+chrX 100426578 101338943 chrX:110200001-111100000 1<br>
+chrX 104024816 104437347 chrX:114000001-114400000 1<br>
+chrX 116612597 117235477 chrX:126800001-127400000 1<br>
+chrX 119379132 119867871 chrX:129700001-130200000 1<br>
+chrX 120821398 121213959 chrX:131200001-131600000 1<br>
+chrX 122239078 122546520 chrX:132600001-132900000 1<br>
+chrX 142561769 143149562 chrX:153900001-154500000 1</p>
+<ul>
+<li></li>
+<li>Look at treeseq tree stats in gog baboons, runstat, pi, tmrca_half, tree balance etc<br>
+</li>
+<li>Compare Mois low admixture and Melissas introgressions to Erik’s Ethiopians<br>
+</li>
+<li>Plot purity-pairing and mutual info away from heterochromatin borders like I did with distance from genes<br>
+</li>
+<li>Partition X into pure olive pure Hama and rest. See how human and yellow fits with that. See if partitions are different with respect to statistics or gene content.<br>
+</li>
+<li>If the migration rate applies to the entire chromosome, then selection coefficients must be above and below some value since we see both types of pure ancestry<br>
+</li>
+<li>What does the distribution of ancestry look like in Gog? Does it look like what wound be expected from my incomp sims?<br>
+</li>
+<li>See if you can quantify this idea with the BMDI simulations
+<ul>
+<li>Jeg har tænkt lidt på BDMI igen. Vi opgav det jo i sin tid fordi vi ikke kunne antage at olive LA i yellow og yellow LA i olive ikke er uafhængige (pga ILS og migration). Men jeg har tænkt at ILS påvirker hybridiserings zonen og baglandet lige meget, mens migration påvirker hybridiserings zonen mere end baglandet. Så hvis der ikke er noget BDMI må vi forvente at correlationen mellem north i olive og yellow er størst i hybrid zonen. Hvis det forholder sig omvendt, så kan det næste kun være fordi BDMI ført er resolved i baglandet. Det er bare en spearman correlation af north i olive bagland og yellow bagland, for en for olives i hyb zone og yellows in hyb zone<br>
+</li>
+</ul></li>
+<li>Compute significance of ECH regions overlapping A/B boundaries<br>
+</li>
+<li>My runstat seem to line up with adaptive introgression genes in Gog<br>
+</li>
+<li>Erik about the strange peaks in t1 and t2 in my relate stat.
+<ul>
+<li>Do they reflect age of first coalescene of derived variants and if so reflect admixture pulses?<br>
+</li>
+</ul></li>
+<li>Did the Y or X regions spread faster than autosomes? Look at CLUES generated frequency trajectories<br>
+</li>
+<li>Do a regression to see how much Ethiopian MPA and rec explain yellow and human MPA? What if we use Tanzania olives and yellows and red to explain Ethiopians?<br>
+</li>
+<li>Did we get the Neanderthal X CENHAP 50 or 250 k years ago when we also got the Y and MT<br>
+</li>
+<li>Look at puertoricans in Mois Shiny app<br>
+</li>
+<li>FIRRE is in my ECH peak 17…!<br>
+</li>
+<li>Is my runstat being higher across x than auto?<br>
+</li>
+<li>Check ampliconic gene locations relative to chromatin boundaries<br>
+</li>
+<li>cDEG gene pos relative to chromatin boundaries<br>
+</li>
+<li>See the cDEG and nDEG genes have significant higher values of my runstat<br>
+</li>
+<li>Add Kasper Hansen’s gene lists to the gene lists spreadsheet<br>
+</li>
+<li>Figure out what ampliconic genes are in ampl3 region that is inverted in the FT haplotype
+<ul>
+<li>Assembly of 43 diverse human Y chromosomes reveals extensive complexity and variation<br>
+</li>
+<li></li>
+<li>https://www.readcube.com/library/ff394a98-20f7-4882-871c-840e9f73d65b:49ca3d3a-0cfa-4157-8a31-eb46de56f545<br>
+</li>
+<li></li>
+</ul></li>
+<li>See if my runstat is higher in the ECH regions<br>
+</li>
+<li>See how the cDEG and nDEG genes distribute relative to A/B domains<br>
+</li>
+<li>Look at Fibroblast XaY vs Fibroblast XaXi in macaque hi-c maps…<br>
+</li>
+<li>Make High ils regions and high skew regions just like the low ILS regions<br>
+</li>
+<li>Try to make a block figure like the ECH plot to show the low ILS in each trio separately.<br>
+</li>
+<li>Why does the mean (znorm) ils skew go up at centromeres? (cenhaps?)<br>
+</li>
+<li>Redo low-ILS windows with qnorm ILS<br>
+</li>
+<li>Make a zoomed in horizon plot of ILS around the centromeres<br>
+</li>
+<li>Is the “MBE smiley” plot higher on the right for the X chromosome?<br>
+</li>
+<li>Mitochondrial-Y chromosome epistasis in Drosophila melanogaster - PubMed
+<ul>
+<li>https://pubmed.ncbi.nlm.nih.gov/33081607/<br>
+</li>
+</ul></li>
+<li>The Drosophila Y Chromosome Affects Heterochromatin Integrity Genome-Wide - PMC
+<ul>
+<li>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7530609/<br>
+</li>
+</ul></li>
+<li>Autosomal mutations affecting Y chromosome loops in Drosophila melanogaster - PMC
+<ul>
+<li>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2386818/</li>
+</ul></li>
+</ul>
+</section>
+<section id="section" class="level1">
+<h1></h1>
+<section id="baboon-hybridization" class="level2">
+<h2 class="anchored" data-anchor-id="baboon-hybridization">Baboon hybridization</h2>
+<p>FMR1 is associated with hybrid sterility in cats <a href="https://app.readcube.com/library/ff394a98-20f7-4882-871c-840e9f73d65b/all?uuid=7369531133925411&amp;item_ids=ff394a98-20f7-4882-871c-840e9f73d65b:8C635B76-2175-7399-D244-B39FB314DFE0">(Davis et al.&nbsp;2015)</a> and is adjacent to the Hstx1 and Hstx2 loci associated with hybrid sterility in mice <a href="https://app.readcube.com/library/ff394a98-20f7-4882-871c-840e9f73d65b/all?uuid=7943413671536026&amp;item_ids=ff394a98-20f7-4882-871c-840e9f73d65b:ab6b21aa-c274-a5f6-ce63-61cddfec36df">(Bhattacharyya et al.&nbsp;2014)</a></p>
+<p><a href="https://app.readcube.com/library/ff394a98-20f7-4882-871c-840e9f73d65b/all?uuid=014703471365232423&amp;item_ids=ff394a98-20f7-4882-871c-840e9f73d65b:fed943f6-2820-4a3d-9194-30a7fa183269">(Vilgalys et al.&nbsp;2022)</a> Selection against admixture and gene regulatory divergence in a long-term primate field study</p>
+<p><a href="https://docs.google.com/document/d/1rEuFR5S0hjgR_66UjUxaMb94JFSVgSbmqP1QEL7rSK8/edit#bookmark=id.xpxgwjsfaai1">see ctcf</a></p>
+</section>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<p><a href="https://app.readcube.com/library/?style=Annual%20Reviews%20(author-date)+%7B%22language%22:%22en-US%22%7D">Bhattacharyya T, Reifova R, Gregorova S, Simecek P, Gergelits V, et al.&nbsp;2014. X Chromosome Control of Meiotic Chromosome Synapsis in Mouse Inter-Subspecific Hybrids. <em>PLoS Genetics</em>. 10(2):e1004088</a><br>
+<a href="https://app.readcube.com/library/?style=Annual%20Reviews%20(author-date)+%7B%22language%22:%22en-US%22%7D">Davis BW, Seabury CM, Brashear WA, Li G, Roelke-Parker M, Murphy WJ. 2015. Mechanisms Underlying Mammalian Hybrid Sterility in Two Feline Interspecies Models. <em>Molecular Biology and Evolution</em>. 32(10):</a><br>
+<a href="https://app.readcube.com/library/?style=Annual%20Reviews%20(author-date)+%7B%22language%22:%22en-US%22%7D">Vilgalys TP, Fogel AS, Anderson JA, Mututua RS, Warutere JK, et al.&nbsp;2022. Selection against admixture and gene regulatory divergence in a long-term primate field study. <em>Science</em>. 377(6606):635–41</a></p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../notes/funding.html" class="pagination-link" aria-label="Funding">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Funding</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../notes/ideas.html" class="pagination-link" aria-label="Ideas / notes">
+        <span class="nav-page-text"><span class="chapter-title">Ideas / notes</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
