@@ -1,4 +1,6 @@
-﻿
+#!/usr/bin/python3
+
+templateHTML = """
     
 <!DOCTYPE html>
 <html lang="en">
@@ -151,7 +153,7 @@
     <script>
     (function() {
 
-        var pl = "zBhJHNx1JM7oXChxJk5C9JgE97Syt0Z0ufr9AmuyiEtYSgN+Jhr2l3USlCY+9Ip1D1qEbXFYcih+83T8Lsn11cMQx2UPoZu4K8Wxkew+mcKJAzQFd6O/usFX+vF5hHbfNOwi8MElqhw2rAGRm0jd0l6tRTMxlF8EyjX2m8M302Qxfx17/mIwy0nF3WhECy3GHaWEYgb+MRbL7mnXL6Wl6OuLDs8rbe3xkBqn6H5CLBypknbrQK0tVDUkK6VeLXOqQe33ghzvh3S6fauIO8ZMQdI4MwCGoKPdmloh/lzHcUq9M2Ad0K3NX7LhqLa5QEyfYqoCRsW6vqMn3rbQEdDOrh5BSvGhIol36zI+RunhZoqcuSB+ySyk3i8QkBQo+dKJ3LqaN/erzod83A7eMD5JcIpUVKxXTG7J0hbefa2fS/MO2Kqq2izZHaWLumgfjbYSdMTp/kqyndlWz1nr7rvYOW+iGjdpRaqjlL61WqKEEsdNXQZ14xm8XEkjUhhz19cfEU5I1Dh16DtgqN3W8W+hEYXHjqHRxgzpGqxPEgIBR6j/l4vgK+CA64i/pcB7gmLb7OATAYnEVItT5OrK8s8aFwe7o6HMifV0OWQdRYe5IJNaLCQ3W2y9Q2agX2cgfn4EhXXTk1lgSsKQ7ZJawjlmbOBXIHb99xu56sU4erm1frvhCPH1pIdwqFHX6+6rb+Mvv4mVXpNcZyvInX/lpUw6LYLgQO6pvn83I5Y0WWAy6X5BZ242IeuQjEJ8Ek90acpxK9jzaHEI9SlmQycFxh1wuEBrdPIG875Oe6VAHSzxFE+0UWxgLSs=";
+        var pl = /*{{ENCRYPTED_PAYLOAD}}*/"";
         
         var submitPass = document.getElementById('submitPass');
         var passEl = document.getElementById('pass');
@@ -252,7 +254,7 @@
                                 });
                             }
                         });
-                    <\/script>
+                    <\\/script>
                 `;
                 
                 // Set default iframe link targets to _top so all links break out of the iframe
@@ -297,3 +299,102 @@
   </body>
 </html>	
     
+"""
+
+
+try:
+    from Crypto import Random
+    from Crypto.Util.py3compat import bchr
+    from Crypto.Cipher import AES
+    from Crypto.Protocol.KDF import PBKDF2
+    from Crypto.Hash import SHA256	
+except:
+    print("install pycrypto: \"pip3 install pycrypto\"")
+    exit(1)
+import os, sys
+from base64 import b64encode
+from getpass import getpass
+import codecs
+
+
+# def main():
+# 	# sanitize input
+# 	if len(sys.argv) < 2:
+# 		print("Usage:\n%s filename [passphrase]"%sys.argv[0])
+# 		exit(0)
+        
+def encrypt_file(inputfile, passphrase):        
+    # inputfile = sys.argv[1]
+    try:
+        with open(inputfile, "rb") as f:
+            data = f.read()
+    except:
+        print("Cannot open file: %s"%inputfile)
+        exit(1)
+
+    salt = Random.new().read(32)
+    key = PBKDF2(
+        passphrase.encode('utf-8'), 
+        salt, 
+        count=100000,
+        dkLen=32, 
+        hmac_hash_module=SHA256
+    )
+    iv = Random.new().read(16)
+
+    cipher = AES.new(key, AES.MODE_GCM, nonce=iv)
+    encrypted, tag = cipher.encrypt_and_digest(data)
+
+    # projectFolder = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    # with open(os.path.join(projectFolder, "decryptTemplate.html")) as f:
+    # 	templateHTML = f.read()
+
+
+    encryptedPl = f'"{b64encode(salt+iv+encrypted+tag).decode("utf-8")}"'
+    encryptedDocument = templateHTML.replace("/*{{ENCRYPTED_PAYLOAD}}*/\"\"", encryptedPl)
+
+    filename, extension = os.path.splitext(inputfile)
+    # outputfile = filename + "-protected" + extension
+    outputfile = inputfile
+    with codecs.open(outputfile, 'w','utf-8-sig') as f:
+        f.write(encryptedDocument)
+    print("File saved to %s"%outputfile)
+
+if __name__ == "__main__":
+
+    import argparse
+    from pathlib import Path
+
+    parser = argparse.ArgumentParser(
+                        prog='ProgramName',
+                        description='What the program does',
+                        epilog='Text at the bottom of help')
+
+    parser.add_argument('-p', '--passphrase') 
+    parser.add_argument('input_file_names', nargs='*', type=Path) 
+    
+    args = parser.parse_args()
+
+    if args.passphrase:
+        passphrase = args.passphrase
+    else:
+        while True:
+            passphrase = getpass(prompt='Password: ')
+            if passphrase == getpass(prompt='Confirm: '):
+                break
+            print("Passwords don\'t match, try again.")
+
+    for p in args.input_file_names:
+
+        if p.is_dir():
+            for file_name in p.glob('**/*.html'):
+                encrypt_file(file_name, passphrase)
+        else:
+            file_name = p
+            encrypt_file(file_name, passphrase)
+
+        
+
+
+# if __name__ == "__main__":
+# 	main()
