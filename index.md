@@ -37,13 +37,13 @@ layout: landing
 <section class="spotlight">
 <div class="image"><img src="images/olive_baboon.jpg" /></div><div class="content">
 <h2>Research</h2>
-We work to understand how the forces of evolution shape genetic variation and the formation of new species. <a href="research.html">Read more...</a>
+We study genetic diversity to understand evolution. <a href="research.html">Read more...</a>
 </div>
 </section>
 <section class="spotlight">
 <div class="image"><img src="images/laptop_cropped.jpg" /></div><div class="content">
 <h2>Software</h2>
-We make computational approaches available as scientific software and programming libraries. <a href="software.html">Read more...</a>
+We make computational approaches available as scientific software. <a href="software.html">Read more...</a>
 </div>
 </section>
 <!-- <section class="spotlight">
