@@ -9,7 +9,7 @@ menu: main
     <p>PI</p>
 </header>
 
-<p><span class="image left"><img src="images/kasper_portrait.png" /></span>Applies population genomic analysis and modelling to understand the fundamental properties and mechanisms of selection, recombination, and speciation. Model organisms are mostly humans and other primates.</p>
+<p><span class="image left"><img src="images/kasper_portrait.png" /></span>I apply population genomic analysis and modelling to understand the fundamental properties and mechanisms of selection, recombination, and speciation. Model organisms are mostly humans and other primates.</p>
 
 [ORCID Profile](https://orcid.org/0000-0003-2880-6252) - 
 [kaspermunch@birc.au.dk](mailto:kaspermunch@birc.au.dk)
@@ -22,13 +22,24 @@ menu: main
 <p><span class="image left"><img src="images/erik.png" /></span>Erik works on how intragenomic conflicts shape X chromosome evolution and development of hybrid incompatibilties between diverging populations.</p>
 
 
+<header>
+    <h3>Søren Jørgensen</h3>
+    <p>Master student</p>
+</header>
+
+<p><span class="image left"><img src="images/placeholder.png" /></span>Søren works on chromatin architecture spermatogenesis and its relation to selection on the X chromosome.</p>
+
+
+
+
+## Former members
 
 <header>
     <h3>Ariadna Saez Gomez</h3>
     <p>Intern</p>
 </header>
 
-<p><span class="image left"><img src="images/placeholder.png" /></span>Ariadna works on identifying genomic elements responsible for strong selection on the X chromosome</p>
+<p><span class="image left"><img src="images/placeholder.png" /></span>Ariadna worked on identifying genomic elements responsible for strong selection on the X chromosome</p>
 
 
 
@@ -37,18 +48,15 @@ menu: main
     <p>Intern</p>
 </header>
 
-<p><span class="image left"><img src="images/placeholder.png" /></span>Davide works on the dynamics of meiotic drive and on identifying signature patterns in genetic diversity for its identification.</p> 
+<p><span class="image left"><img src="images/placeholder.png" /></span>Davide worked on the dynamics of meiotic drive and on identifying signature patterns in genetic diversity for its identification.</p> 
 
-
-
-## Former members
 
 <header>
     <h3>Tobias Røikjer</h3>
     <p>MSc student</p>
 </header>
 
-<p><span class="image left"><img src="images/tobias.png" /></span>Tobias works on a graph-based formulation of phase-type distributions to compute the joint distribution of total branch length of lineages with different numbers of descendants and to compute the joint distribution of the site frequency spectrum in both a single population and in an isolation -with-migration model.</p>
+<p><span class="image left"><img src="images/tobias.png" /></span>Tobias worked on a graph-based formulation of phase-type distributions to compute the joint distribution of total branch length of lineages with different numbers of descendants and to compute the joint distribution of the site frequency spectrum in both a single population and in an isolation -with-migration model.</p>
 
 
 <header>
