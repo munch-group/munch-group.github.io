@@ -10,7 +10,7 @@ The course introduces key concepts in population genomics from generation of pop
 
 I have developed Python libraries to aid student leadning:
 
-- [argdashboard](https://github.com/munch-group.org/argdashboard] is an interactive dashboard that aids understanding the ancestral recombination graph.
+- [argdashboard](https://github.com/munch-group.org/argdashboard)is an interactive dashboard that aids understanding the ancestral recombination graph.
 
 The course is available on github. Feel free to reuse. 
 
@@ -20,10 +20,10 @@ The course introduces programming and its practical applications in bioinformati
 
 I have developed my own lecture notes and a series of Python libraries to aid student leadning:
 
-- [print-steps](https://github.com/munch-group.org/print-steps] is a utility that prints each step by which a Python expression reduces to a single value.
-- [myiagi](https://github.com/munch-group.org/myiagi] is a terminal GUI game that lets students train substitution and reduction in Python expressions.
-- [nnwidgets](https://github.com/munch-group.org/nnwidgets] use a series of interactive widgets that present the student with visual proof that a neural network can represent any function.
-- [plotwidgets](https://github.com/munch-group.org/plotwidgets] is a Python widget that adds a GUI to seaborn visualisations and plots.
+- [print-steps](https://github.com/munch-group.org/print-steps) is a utility that prints each step by which a Python expression reduces to a single value.
+- [myiagi](https://github.com/munch-group.org/myiagi) is a terminal GUI game that lets students train substitution and reduction in Python expressions.
+- [nnwidgets](https://github.com/munch-group.org/nnwidgets) use a series of interactive widgets that present the student with visual proof that a neural network can represent any function.
+- [plotwidgets](https://github.com/munch-group.org/plotwidgets) is a Python widget that adds a GUI to seaborn visualisations and plots.
 
 The course is available on github. Feel free to reuse. 
 
