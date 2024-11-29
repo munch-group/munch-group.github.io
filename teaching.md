@@ -4,7 +4,7 @@ title: Teaching
 menu: main
 ---
 
-## Population Genomics
+## Genomic Thinking
 
 The course introduces key concepts in population genomics from generation of population genetic data sets to the most common population genetic analyses and association studies. The first part of the course focuses on generation of population genetic data sets. The second part introduces the most common population genetic analyses and their theoretical background. Here, topics include analysis of demography, population structure, recombination and selection. The last part of the course focus on applications of population genetic data sets for association studies in relation to human health. See the [full course description](https://kursuskatalog.au.dk/en/course/87461/Population-Genomics) and the [GitHub page](https://github.com/munch-group/PopulationGenomicsCourse).
 
