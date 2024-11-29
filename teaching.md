@@ -10,7 +10,7 @@ The course introduces key concepts in population genomics from generation of pop
 
 I have developed Python libraries to aid student leadning:
 
-- [argdashboard](https://github.com/munch-group.org/argdashboard)is an interactive dashboard that aids understanding the ancestral recombination graph.
+- [argdashboard](https://github.com/munch-group.org/argdashboard) is an interactive dashboard that aids understanding the ancestral recombination graph.
 
 The course is available on github. Feel free to reuse. 
 
