@@ -19,7 +19,7 @@ menu: main
     <p>PhD student</p>
 </header>
 
-<p><span class="image left"><img src="images/erik.png" /></span>Erik works on how intragenomic conflicts shape X chromosome evolution and development of hybrid incompatibilties between diverging populations.</p>
+<p><span class="image left"><img src="images/erik.png" /></span>Erik works on how intragenomic conflicts shape X chromosome evolution and the development of hybrid incompatibilities between diverging populations.</p>
 
 
 <header>
@@ -28,6 +28,13 @@ menu: main
 </header>
 
 <p><span class="image left"><img src="images/placeholder.png" /></span>Søren works on chromatin architecture spermatogenesis and its relation to selection on the X chromosome.</p>
+
+<header>
+    <h3>Johan Christensen Ulstrup</h3>
+    <p>Master student</p>
+</header>
+
+<p><span class="image left"><img src="images/placeholder.png" /></span>Johan uses genomic pre-trained networks to compare sequence X chromosome sequence conservation across baboon species.</p>
 
 
 
@@ -56,7 +63,7 @@ menu: main
     <p>MSc student</p>
 </header>
 
-<p><span class="image left"><img src="images/tobias.png" /></span>Tobias worked on a graph-based formulation of phase-type distributions to compute the joint distribution of total branch length of lineages with different numbers of descendants and to compute the joint distribution of the site frequency spectrum in both a single population and in an isolation -with-migration model.</p>
+<p><span class="image left"><img src="images/tobias.png" /></span>Tobias worked on a graph-based formulation of phase-type distributions to compute the joint distribution of total branch length of lineages with different numbers of descendants and to compute the joint distribution of the site frequency spectrum in both a single population and in an isolation-with-migration model.</p>
 
 
 <header>
@@ -64,7 +71,7 @@ menu: main
     <p>Postdoc</p>
 </header>
 
-<p><span class="image left"><img src="images/david_castellano3.png" /></span> David was funded by Independent Research Fund Denmark. He worked on distributions of fitness effects and the determinants of genetic variation across the genomes of great apes. David went on to do a postod with Donate Weghorn, Centre for Genomic Regulation, Spain.</p>
+<p><span class="image left"><img src="images/david_castellano3.png" /></span> David was funded by Independent Research Fund Denmark. He worked on distributions of fitness effects and the determinants of genetic variation across the genomes of great apes. David went on to do a postdoc with Donate Weghorn, Centre for Genomic Regulation, Spain.</p>
 
 [ORCID Profile](https://orcid.org/0000-0001-8778-6007)
 
@@ -74,6 +81,6 @@ menu: main
     <p>Postdoc</p>
 </header>
 
-<p><span class="image left"><img src="images/jonas_berglund2.png" /></span> Jonas worked on GC-biased gene conversion and stability of hotspots in birds. He went on to do a postdoc at Department of Ecology and Genetics, Evolutionary Biology in Uppsala </p>
+<p><span class="image left"><img src="images/jonas_berglund2.png" /></span> Jonas worked on GC-biased gene conversion and stability of hotspots in birds. He went on to do a postdoc at the Department of Ecology and Genetics, Evolutionary Biology in Uppsala </p>
 
 [ORCID Profile](http://orcid.org/)
