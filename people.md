@@ -14,6 +14,16 @@ menu: main
 [ORCID Profile](https://orcid.org/0000-0003-2880-6252) - 
 [kaspermunch@birc.au.dk](mailto:kaspermunch@birc.au.dk)
 
+
+<header>
+    <h3>Shannon D'Urso</h3>
+    <p>Postdoc</p>
+</header>
+
+<p><span class="image left"><img src="images/shannon.jpeg" /></span>Shannon works on how intra-genomic conflicts in spermatogenesis shape the genetic basis of autism.</p>
+
+
+
 <header>
     <h3>Erik Fogh Sørensen</h3>
     <p>PhD student</p>
