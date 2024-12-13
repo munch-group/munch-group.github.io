@@ -70,7 +70,7 @@ menu: main
 
 <header>
     <h3>Tobias Røikjer</h3>
-    <p>MSc student</p>
+    <p>Master student</p>
 </header>
 
 <p><span class="image left"><img src="images/tobias.png" /></span>Tobias worked on a graph-based formulation of phase-type distributions to compute the joint distribution of total branch length of lineages with different numbers of descendants and to compute the joint distribution of the site frequency spectrum in both a single population and in an isolation-with-migration model.</p>
