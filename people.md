@@ -39,7 +39,7 @@ menu: main
     <p>Intern</p>
 </header>
 
-<p><span class="image left"><img src="images/placeholder.png" /></span>Ariadna worked on identifying genomic elements responsible for strong selection on the X chromosome</p>
+<p><span class="image left"><img src="images/ariadna_intern.jpeg" /></span>Ariadna worked on identifying genomic elements responsible for strong selection on the X chromosome</p>
 
 
 
@@ -48,7 +48,7 @@ menu: main
     <p>Intern</p>
 </header>
 
-<p><span class="image left"><img src="images/placeholder.png" /></span>Davide worked on the dynamics of meiotic drive and on identifying signature patterns in genetic diversity for its identification.</p> 
+<p><span class="image left"><img src="images/davide_intern.jpeg" /></span>Davide worked on the dynamics of meiotic drive and on identifying signature patterns in genetic diversity for its identification.</p> 
 
 
 <header>
