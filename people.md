@@ -27,12 +27,6 @@ menu: main
     <p>PhD student</p>
 </header>
 
-<p><span class="image left"><img src="images/placeholder.png" /></span>Søren works on chromatin architecture spermatogenesis and its relation to selection on the X chromosome.</p>
-<header>
-    <h3>Søren Jørgensen</h3>
-    <p>Master student</p>
-</header>
-
 <p><span class="image left"><img src="images/placeholder.png" /></span>Johan uses genomic pre-trained networks to compare sequence X chromosome sequence conservation across baboon species.</p>
 <header>
     <h3>Johan Christensen Ulstrup</h3>
@@ -40,6 +34,12 @@ menu: main
 </header>
 
 ## Former members
+
+<p><span class="image left"><img src="images/placeholder.png" /></span>Søren works on chromatin architecture spermatogenesis and its relation to selection on the X chromosome.</p>
+<header>
+    <h3>Søren Jørgensen</h3>
+    <p>Master student</p>
+</header>
 
 <p><span class="image left"><img src="images/ariadna_intern.jpeg" /></span>Ariadna worked on identifying genomic elements responsible for strong selection on the X chromosome</p>
 <header>
