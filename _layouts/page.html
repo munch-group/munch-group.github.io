@@ -1,16 +1,22 @@
 ---
 layout: default
 ---
-<article id="main">
 
+<section id="wrapper">
   <header>
-    <h2>{{ page.title }}</h2>
+    <div class="inner">
+      <h2>{{ page.title }}</h2>
+      <p>Phasellus non pulvinar erat. Fusce tincidunt nisl eget ipsum.</p>
+    </div>
   </header>
 
-  <section class="wrapper style5">
-    <div class="inner">
-      {{ content }}
-    </div>
-  </section>
+    <div class="wrapper">
+      <div class="inner">
 
-</article>
+        {{ content }}
+
+      </div>
+    </div>
+
+</section>
+

@@ -1,0 +1,1 @@
+conda run -n encrypt python pagecrypt.py -p <passphrase> internal/index.html

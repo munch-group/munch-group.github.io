@@ -1,4 +1,4 @@
-<!-- Header -->
+<!-- 
 <header id="header"{% if page.layout == 'landing' %} class="alt"{% endif %}>
   <h1><a href="{{ site.baseurl }}/index.html">{{ site.title }}</a></h1>
   <nav id="nav">
@@ -15,8 +15,29 @@
               {% endif %}
             {% endif %}
             {% endfor %}
-            <!-- <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}"
-                   class="icon fa-feed"> RSS Feed</a></li> -->
+          </ul>
+        </div>
+      </li>
+    </ul>
+  </nav>
+</header> -->
+
+<header id="header"{% if page.layout == 'landing' %} class="alt"{% endif %}>
+  <h1><a href="index.html"><a href="{{ site.baseurl }}/index.html">{{ site.title }}</a></a></h1>
+  <nav>
+    <ul>
+      <li class="special">
+        <a href="#menu">Menu</a>
+        <div id="menu">
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            {% for my_page in site.pages %}
+            {% if my_page.title %}
+              {% if my_page.menu == 'main' %}
+              <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+              {% endif %}
+            {% endif %}
+            {% endfor %}
           </ul>
         </div>
       </li>
