@@ -29,7 +29,7 @@ layout: landing
 <!-- Three -->
 <section id="three" class="wrapper spotlight style3">
 	<div class="inner">
-		<a href="#" class="image"><img src="images/colorfulbrain.png" alt="" /></a>
+		<a href="#" class="image"><img src="images/asd_kid.png" alt="" /></a>
 		<div class="content">
 			<h2 class="major">Intra-genomic conflict and autism</h2>
 			<p>Blah blah.</p>
