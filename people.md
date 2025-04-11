@@ -4,27 +4,28 @@ title: People
 menu: main
 ---
 
-<div style="display: block" >
 <article>
 <span class="image left"><img src="images/kasper_portrait.png" style="max-width:200px" /></span>
+<div style="display: block; float: right;" >
 <header>
     <h3>Kasper Munch</h3>
     <p><b>PI</b> - kaspermunch@birc.au.dk</p>
 </header>
 <p>I apply population genomic analysis and modelling to understand the fundamental properties and mechanisms of selection, recombination, and speciation. Model organisms are mostly humans and other primates.</p>
-</article>
 </div>
+</article>
 
-<div style="display: block" >
+
 <article>
 <span class="image left"><img src="images/shannon.jpeg" style="max-width:200px" /></span>
+<div style="display: block; float: right;" >
 <header>
     <h3>Shannon D'Urso</h3>
     <p>Postdoc</p>
 </header>
 <p>Shannon works on how intra-genomic conflicts in spermatogenesis shape the genetic basis of autism.</p>
-</article>
 </div>
+</article>
 
 <article>
 <span class="image left"><img src="images/placeholder.png" style="max-width:200px" /></span>
@@ -58,7 +59,7 @@ menu: main
 
 
 <article>
-<span class="image left"><img src="images/XXX" style="max-width:200px" /></span>
+<span class="image left"><img src="images/ariadna_intern.jpeg" style="max-width:200px" /></span>
 <header>
     <h3>Ariadna Saez Gomez</h3>
     <p>Intern</p>
@@ -88,7 +89,7 @@ menu: main
 
 
 <article>
-<span class="image left"><img src="images/XXX" style="max-width:200px" /></span>
+<span class="image left"><img src="images/david_castellano3.png" style="max-width:200px" /></span>
 <header>
     <h3>David Castellano</h3>
     <p>Postdoc</p>
