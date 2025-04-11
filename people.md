@@ -14,6 +14,8 @@ menu: main
 </article>
 {% endfor %}
 
+<hr>
+
 ## Former members
 
 {% for member in site.members.former %}
@@ -23,6 +25,15 @@ menu: main
     <p>{{ member.project }}</p>
 </article>
 {% endfor %}
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 <!-- 
 

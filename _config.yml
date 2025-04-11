@@ -27,11 +27,6 @@ members:
 
   former:
 
-    - name: Jonas Berglund
-      image: images/pic04.jpg
-      position: Postdoc
-      project: Jonas worked on GC-biased gene conversion and stability of hotspots in birds.
-
     - name: Søren Jørgensen
       image: images/placeholder.png
       position: Master student
