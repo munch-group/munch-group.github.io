@@ -7,16 +7,67 @@ description: |
   Population genomics of natural selection,<br>species formation and human neuro-development
 owner: Kasper Munch # or company name
 members:
+
   present:
+
     - name: Kasper Munch
-      image: images/pic04.jpg
+      image: images/kasper_portrait.png
       position: PI
       project: Population genomic analysis and modelling to understand the fundamental properties and mechanisms of selection, recombination, and speciation. 
+
+    - name: Shannon D'Urso
+      image: images/shannon.jpeg
+      position: Postdoc
+      project: Shannon works on how intra-genomic conflicts in spermatogenesis shape the genetic basis of autism.
+
+    - name: Johan Christensen Ulstrup
+      image: images/placeholder.png
+      position: Master student
+      project: Johan uses genomic pre-trained networks to compare sequence X chromosome sequence conservation across baboon species.
+
   former:
+
     - name: Jonas Berglund
       image: images/pic04.jpg
       position: Postdoc
       project: Jonas worked on GC-biased gene conversion and stability of hotspots in birds.
+
+    - name: Søren Jørgensen
+      image: images/placeholder.png
+      position: Master student
+      project: Søren works on chromatin architecture spermatogenesis and its relation to selection on the X chromosome.
+
+    - name: Erik Fogh Sørensen
+      image: images/erik.png
+      position: PhD student
+      project: Erik works on how intragenomic conflicts shape X chromosome evolution and the development of hybrid incompatibilities between diverging populations.
+
+    - name: Ariadna Saez Gomez
+      image: images/ariadna_intern.jpeg
+      position: Intern
+      project: Ariadna worked on identifying genomic elements responsible for strong selection on the X chromosome.
+
+    - name: Davide Capozzi
+      image: images/davide_intern.jpeg
+      position: Intern
+      project: Davide worked on the dynamics of meiotic drive and on identifying signature patterns in genetic diversity for its identification.
+
+    - name: Tobias Røikjer
+      image: images/tobias.png
+      position: Master student
+      project: Tobias worked on a graph-based formulation of phase-type distributions to compute the joint distribution of total branch length of lineages with different numbers of descendants and to compute the joint distribution of the site frequency spectrum in both a single population and in an isolation-with-migration model.
+
+    - name: David Castellano
+      image: images/david_castellano3.png
+      position: Postdoc
+      project: David was funded by Independent Research Fund Denmark. He worked on distributions of fitness effects and the determinants of genetic variation across the genomes of great apes.
+
+    - name: Jonas Berglund
+      image: images/jonas_berglund2.png
+      position: Postdoc
+      project: Jonas worked on GC-biased gene conversion and stability of hotspots in birds.
+
+
 first_published: 2016 # if migrating another site, the year of your first publish
 email: kaspermunch@birc.au.dk
 baseurl: "" # the subpath of your site, e.g. /blog
