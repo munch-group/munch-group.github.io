@@ -33,11 +33,13 @@ menu: main
 <div>
 <article>
 <span class="image left"><img src="images/placeholder.png" style="max-width:200px" /></span>
+<div style="display: block; float: right;" >
 <header>
     <h3>Johan Christensen Ulstrup</h3>
     <p>Master student</p>
 </header>
 <p>ohan uses genomic pre-trained networks to compare sequence X chromosome sequence conservation across baboon species.</p>
+</div>
 </article>
 </div>
 
