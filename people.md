@@ -7,7 +7,7 @@ menu: main
 
 
 {% for member in site.members.present %}
-<article style="clear: both">
+<article style="clear: both; margin-bottom: 30px;">
     <span class="image right"><img src="{{ member.image }}" style="max-width:180px" alt="" /></span>
     <h3 class="major">{{ member.name }}</h3>
     <p>{{ member.description }}</p>
