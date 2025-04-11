@@ -1,6 +1,7 @@
 ---
 layout: page
 title: People
+subtitle: Group members past and present
 menu: main
 ---
 
