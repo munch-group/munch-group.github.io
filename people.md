@@ -9,8 +9,8 @@ menu: main
 {% for member in site.members.present %}
 <article style="clear: both">
     <span class="image right"><img src="{{ member.image }}" style="max-width:180px" alt="" /></span>
-    <h3 class="major">{{ member.name }} - {{ member.position }}</h3>
-    <p>{{ member.project }}</p>
+    <h3 class="major">{{ member.name }}</h3>
+    <p>{{ member.description }}</p>
 </article>
 {% endfor %}
 
@@ -21,8 +21,8 @@ menu: main
 {% for member in site.members.former %}
 <article style="clear: both">
     <span class="image right"><img src="{{ member.image }}" style="max-width:180px" alt="" /></span>
-    <h3 class="major">{{ member.name }} - {{ member.position }}</h3>
-    <p>{{ member.project }}</p>
+    <h3 class="major">{{ member.name }}</h3>
+    <p>{{ member.description }}</p>
 </article>
 {% endfor %}
 
