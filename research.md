@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+title: Main lines of research
 menu: main
 ---
 

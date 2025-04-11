@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Philosophy
+subtitle: Our approach to science
 menu: main
 ---
 

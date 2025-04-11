@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Teaching
+title: Courses and teaching tools
 menu: main
 ---
 

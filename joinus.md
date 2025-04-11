@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Join us
+subtitle: Opportunities to come join us
 menu: main
 ---
 <!-- 

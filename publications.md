@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+subtitle: Contributions from the group
 menu: main
 ---
 

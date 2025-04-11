@@ -1,6 +1,7 @@
 ---
 layout: page
 title: News and Press
+subtitle: News, press, and popular science
 menu: main
 ---
 
