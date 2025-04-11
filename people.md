@@ -30,6 +30,7 @@ menu: main
 </article>
 </div>
 
+<div>
 <article>
 <span class="image left"><img src="images/placeholder.png" style="max-width:200px" /></span>
 <header>
@@ -38,9 +39,11 @@ menu: main
 </header>
 <p>ohan uses genomic pre-trained networks to compare sequence X chromosome sequence conservation across baboon species.</p>
 </article>
+</div>
 
 ## Former members
 
+<div>
 <article>
 <span class="image left"><img src="images//placeholder.png" style="max-width:200px" /></span>
 <header>
@@ -49,7 +52,7 @@ menu: main
 </header>
 <p>Søren works on chromatin architecture spermatogenesis and its relation to selection on the X chromosome.</p>
 </article>
-
+</div>
 
 <article>
 <span class="image left"><img src="images/erik.png" style="max-width:200px" /></span>
