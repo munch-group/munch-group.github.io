@@ -24,19 +24,3 @@ menu: main
 
 I propose a model where antagonizing selfish gene variants on the X and Y chromosomes depress and stabilize each other's frequency. This establishes a dynamic equilibrium, where many selfish gene variants, which together control meiotic balance, are maintained at low frequencies by frequency-dependent balancing selection. I hypothesize that disturbances to this equilibrium will trigger strong selection on selfish gene variants and thus allow them to reach very high frequencies in a population quickly. The exodus from Africa resulted in many such disturbances in the form of rapid changes in population size and the exchange of individuals between populations. I have explored the properties of the simplest possible version of this model and found the internal consistency and qualitative predictions to align with my hypothesis. Thus, This simple model can explain my recent observation of extremely strong selection on the X chromosome coinciding with the spread of modern humans out of Africa.  -->
 
-
-## Project archive
-
-As of 2024, research projects in the group are hosted at the groups [GitHub page](https://github.com/munch-group)
-
-
-<!--
-
-### Simulation of frequency dynamics under meiotic drive
-
-### X chromosome sweeps in African populations
-
-### Admixture and hybrid incompatibility among baboon species
-
--->
-
