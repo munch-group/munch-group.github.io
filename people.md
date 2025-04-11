@@ -5,17 +5,12 @@ menu: main
 ---
 
 <section>
-<section>
 <p><span class="image left"><img src="images/kasper_portrait.png" style="max-width:200px" /></span>I apply population genomic analysis and modelling to understand the fundamental properties and mechanisms of selection, recombination, and speciation. Model organisms are mostly humans and other primates.</p>
 <header>
     <h3>Kasper Munch</h3>
-    <p>PI</p>
+    <p>PI kaspermunch@birc.au.dk</p>
 </header>
 </section>
-[kaspermunch@birc.au.dk](mailto:kaspermunch@birc.au.dk)
-</section>
-
-
 
 <section>
 <p><span class="image left"><img src="images/shannon.jpeg" style="max-width:200px" /></span>Shannon works on how intra-genomic conflicts in spermatogenesis shape the genetic basis of autism.</p>
@@ -23,7 +18,7 @@ menu: main
     <h3>Shannon D'Urso</h3>
     <p>Postdoc</p>
 </header>
-</section>
+</section><br>
 
 <section>
 <p><span class="image left"><img src="images/erik.png" style="max-width:200px" /></span>Erik works on how intragenomic conflicts shape X chromosome evolution and the development of hybrid incompatibilities between diverging populations.</p>
@@ -32,6 +27,8 @@ menu: main
     <p>PhD student</p>
 </header>
 </section>
+
+<p></p>
 
 <section>
 <p><span class="image left"><img src="images/placeholder.png" style="max-width:200px" /></span>Johan uses genomic pre-trained networks to compare sequence X chromosome sequence conservation across baboon species.</p>

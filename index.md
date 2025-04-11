@@ -19,7 +19,7 @@ layout: landing
 	<div class="inner">
 		<a href="#" class="image"><img src="images/olive_baboon.jpg" alt="" /></a>
 		<div class="content">
-			<h2 class="major">X chromosome evolution and hybrid incompatibility</h2>
+			<h2 class="major">X chromosome and hybrid incompatibility</h2>
 			<p>Blah blah.</p>
 			<a href="#" class="special">Learn more</a>
 		</div>
@@ -29,7 +29,7 @@ layout: landing
 <!-- Three -->
 <section id="three" class="wrapper spotlight style3">
 	<div class="inner">
-		<a href="#" class="image"><img src="images/lemur.png" alt="" /></a>
+		<a href="#" class="image"><img src="images/colorfulbrain.png" alt="" /></a>
 		<div class="content">
 			<h2 class="major">Intra-genomic conflict and autism</h2>
 			<p>Blah blah.</p>
