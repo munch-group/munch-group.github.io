@@ -5,7 +5,13 @@ subtitle: Group members past and present
 menu: main
 ---
 
-<div>
+<article>
+    <span class="image left"><img src="images/pic04.jpg" alt="" /></span>
+    <h3 class="major">Sed feugiat lorem</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
+    <a href="#" class="special">Learn more</a>
+</article>
+
 <article>
 <span class="image left"><img src="images/kasper_portrait.png" style="max-width:200px" /></span>
 <div style="display: block; float: right;" >
@@ -16,7 +22,7 @@ menu: main
 <p>I apply population genomic analysis and modelling to understand the fundamental properties and mechanisms of selection, recombination, and speciation. Model organisms are mostly humans and other primates.</p>
 </div>
 </article>
-</div>
+
 
 <div>
 <article>
