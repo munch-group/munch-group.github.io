@@ -5,23 +5,23 @@ menu: main
 ---
 
 <section>
-<p><span class="image left"><img src="images/kasper_portrait.png" style="max-width:200px" /></span>I apply population genomic analysis and modelling to understand the fundamental properties and mechanisms of selection, recombination, and speciation. Model organisms are mostly humans and other primates.</p>
+<p class="left"><span class="image left"><img src="images/kasper_portrait.png" style="max-width:200px" /></span>I apply population genomic analysis and modelling to understand the fundamental properties and mechanisms of selection, recombination, and speciation. Model organisms are mostly humans and other primates.</p>
 <header>
     <h3>Kasper Munch</h3>
     <p>PI kaspermunch@birc.au.dk</p>
 </header>
-</section style="clear: right">
+</section>
 
 <section>
 <header>
     <h3>Shannon D'Urso</h3>
     <p>Postdoc</p>
 </header>
-<p><span class="image left"><img src="images/shannon.jpeg" style="max-width:200px" /></span>Shannon works on how intra-genomic conflicts in spermatogenesis shape the genetic basis of autism.</p>
+<p class="left"><span class="image left"><img src="images/shannon.jpeg" style="max-width:200px" /></span>Shannon works on how intra-genomic conflicts in spermatogenesis shape the genetic basis of autism.</p>
 </section>
 
 <section>
-<p><span class="image left"><img src="images/erik.png" style="max-width:200px" /></span>Erik works on how intragenomic conflicts shape X chromosome evolution and the development of hybrid incompatibilities between diverging populations.</p>
+<p class="left"><span class="image left"><img src="images/erik.png" style="max-width:200px" /></span>Erik works on how intragenomic conflicts shape X chromosome evolution and the development of hybrid incompatibilities between diverging populations.</p>
 <header>
     <h3>Erik Fogh Sørensen</h3>
     <p>PhD student</p>
