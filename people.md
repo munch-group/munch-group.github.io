@@ -5,11 +5,13 @@ menu: main
 ---
 
 
-<p class="left"><span class="image left"><img src="images/kasper_portrait.png" style="max-width:200px" /></span>I apply population genomic analysis and modelling to understand the fundamental properties and mechanisms of selection, recombination, and speciation. Model organisms are mostly humans and other primates.</p>
+<span style="display: block">
+<p><span class="image left"><img src="images/kasper_portrait.png" style="max-width:200px" /></span>I apply population genomic analysis and modelling to understand the fundamental properties and mechanisms of selection, recombination, and speciation. Model organisms are mostly humans and other primates.</p>
 <header>
     <h3>Kasper Munch</h3>
     <p>PI - kaspermunch@birc.au.dk</p>
 </header>
+</span>
 
 <span style="display: block">
 <p class="left"><span class="image left"><img src="images/shannon.jpeg" style="max-width:200px" /></span>Shannon works on how intra-genomic conflicts in spermatogenesis shape the genetic basis of autism.</p>
