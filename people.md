@@ -5,13 +5,14 @@ menu: main
 ---
 
 
-<span style="display: block">
+<article>
+<span class="image left"><img src="images/kasper_portrait.png" style="max-width:200px" /></span>
 <header>
     <h3>Kasper Munch</h3>
     <p>PI - kaspermunch@birc.au.dk</p>
 </header>
-<p><span class="image left"><img src="images/kasper_portrait.png" style="max-width:200px" /></span>I apply population genomic analysis and modelling to understand the fundamental properties and mechanisms of selection, recombination, and speciation. Model organisms are mostly humans and other primates.</p>
-</span>
+<p>I apply population genomic analysis and modelling to understand the fundamental properties and mechanisms of selection, recombination, and speciation. Model organisms are mostly humans and other primates.</p>
+</article>
 
 <span style="display: block">
 <header>
