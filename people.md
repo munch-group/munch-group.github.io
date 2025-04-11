@@ -7,8 +7,8 @@ menu: main
 
 
 {% for member in site.members.present %}
-<article style="clear: both; padding-bottom: 100px;">
-    <span class="image right"><img src="{{ member.image }}" style="max-width:180px" alt="" /></span>
+<article style="clear: both">
+    <span class="image right"><img src="{{ member.image }}" style="max-width:180px; padding-bottom: 100px;" alt="" /></span>
     <h3 class="major">{{ member.name }}</h3>
     <p>{{ member.description }}</p>
 </article>
