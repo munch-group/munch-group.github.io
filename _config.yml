@@ -12,7 +12,7 @@ members:
 
     - name: Kasper Munch
       image: images/kasper_portrait.png
-      description: PI. Population genomic analysis and modelling to understand the fundamental properties and mechanisms of selection, recombination, and speciation. 
+      description: Population genomic analysis and modelling to understand the fundamental properties and mechanisms of selection, recombination, and speciation. 
 
     - name: Shannon D'Urso
       image: images/shannon.jpeg
