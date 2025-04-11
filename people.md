@@ -18,7 +18,9 @@ menu: main
     <h3>Shannon D'Urso</h3>
     <p>Postdoc</p>
 </header>
-</section><br>
+</section>
+
+<p></p>
 
 <section>
 <p><span class="image left"><img src="images/erik.png" style="max-width:200px" /></span>Erik works on how intragenomic conflicts shape X chromosome evolution and the development of hybrid incompatibilities between diverging populations.</p>
