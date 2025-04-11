@@ -15,6 +15,7 @@ menu: main
 </article>
 </div>
 
+<div style="display: block" >
 <article>
 <span class="image left"><img src="images/shannon.jpeg" style="max-width:200px" /></span>
 <header>
@@ -23,7 +24,7 @@ menu: main
 </header>
 <p>Shannon works on how intra-genomic conflicts in spermatogenesis shape the genetic basis of autism.</p>
 </article>
-
+</div>
 
 <article>
 <span class="image left"><img src="images/placeholder.png" style="max-width:200px" /></span>
