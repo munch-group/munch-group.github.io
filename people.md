@@ -10,7 +10,7 @@ menu: main
     <h3>Kasper Munch</h3>
     <p>PI kaspermunch@birc.au.dk</p>
 </header>
-</section>
+</section style="clear: right">
 
 <section>
 <header>
