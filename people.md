@@ -4,6 +4,7 @@ title: People
 menu: main
 ---
 
+<div>
 <article>
 <span class="image left"><img src="images/kasper_portrait.png" style="max-width:200px" /></span>
 <div style="display: block; float: right;" >
@@ -14,8 +15,9 @@ menu: main
 <p>I apply population genomic analysis and modelling to understand the fundamental properties and mechanisms of selection, recombination, and speciation. Model organisms are mostly humans and other primates.</p>
 </div>
 </article>
+</div>
 
-
+<div>
 <article>
 <span class="image left"><img src="images/shannon.jpeg" style="max-width:200px" /></span>
 <div style="display: block; float: right;" >
@@ -26,6 +28,7 @@ menu: main
 <p>Shannon works on how intra-genomic conflicts in spermatogenesis shape the genetic basis of autism.</p>
 </div>
 </article>
+</div>
 
 <article>
 <span class="image left"><img src="images/placeholder.png" style="max-width:200px" /></span>
