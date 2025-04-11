@@ -13,14 +13,12 @@ menu: main
 </section>
 
 <section>
-<p><span class="image left"><img src="images/shannon.jpeg" style="max-width:200px" /></span>Shannon works on how intra-genomic conflicts in spermatogenesis shape the genetic basis of autism.</p>
 <header>
     <h3>Shannon D'Urso</h3>
     <p>Postdoc</p>
 </header>
+<p><span class="image left"><img src="images/shannon.jpeg" style="max-width:200px" /></span>Shannon works on how intra-genomic conflicts in spermatogenesis shape the genetic basis of autism.</p>
 </section>
-
-<p></p>
 
 <section>
 <p><span class="image left"><img src="images/erik.png" style="max-width:200px" /></span>Erik works on how intragenomic conflicts shape X chromosome evolution and the development of hybrid incompatibilities between diverging populations.</p>
