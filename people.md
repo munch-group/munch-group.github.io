@@ -5,14 +5,14 @@ subtitle: Group members past and present
 menu: main
 ---
 
-<article>
+<article style="clear: left">
     <span class="image left"><img src="images/pic04.jpg" alt="" /></span>
     <h3 class="major">Sed feugiat lorem</h3>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
     <a href="#" class="special">Learn more</a>
 </article>
 
-<article>
+<article style="clear: left">
     <span class="image left"><img src="images/pic04.jpg" alt="" /></span>
     <h3 class="major">Sed feugiat lorem</h3>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
