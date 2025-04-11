@@ -39,10 +39,12 @@ menu: main
     <h3>Johan Christensen Ulstrup</h3>
     <p>Master student</p>
 </header>
-<p>ohan uses genomic pre-trained networks to compare sequence X chromosome sequence conservation across baboon species.</p>
+<p>Johan uses genomic pre-trained networks to compare sequence X chromosome sequence conservation across baboon species.</p>
 </div>
 </article>
 </div>
+
+<!-- 
 
 ## Former members
 
@@ -115,3 +117,4 @@ menu: main
 </header>
 <p>Jonas worked on GC-biased gene conversion and stability of hotspots in birds.</p>
 </article>
+-->
