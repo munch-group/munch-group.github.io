@@ -14,7 +14,9 @@ menu: main
 </article>
 {% endfor %}
 
-<span style="clear: both"><h2>Former members</h2></style>
+<div style="clear: both" >
+<h2>Former members</h2>
+</div>
 
 {% for member in site.members.former %}
 <article style="clear: both">
