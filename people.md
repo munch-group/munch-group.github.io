@@ -10,8 +10,8 @@ menu: main
 <article style="clear: left">
     <span class="image right"><img src="{{ member.image }}" style="max-width:180px" alt="" /></span>
     <h3 class="major">{{ member.name }}</h3>
+    <p><b>{{ member.position }}</b></p>
     <p>{{ member.project }}</p>
-    <a href="#" class="special">Learn more</a>
 </article>
 {% endfor %}
 
@@ -19,10 +19,10 @@ menu: main
 
 {% for member in site.members.former %}
 <article style="clear: left">
-    <span class="image left"><img src="{{ member.image }}" style="max-width:180px" alt="" /></span>
+    <span class="image right"><img src="{{ member.image }}" style="max-width:180px" alt="" /></span>
     <h3 class="major">{{ member.name }}</h3>
+    <p><b>{{ member.position }}</b></p>
     <p>{{ member.project }}</p>
-    <a href="#" class="special">Learn more</a>
 </article>
 {% endfor %}
 
