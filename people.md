@@ -14,9 +14,7 @@ menu: main
 </article>
 {% endfor %}
 
-<hr>
-
-## Former members
+<span style="clear: both"><h2>Former members</h2></style>
 
 {% for member in site.members.former %}
 <article style="clear: both">
@@ -30,9 +28,7 @@ menu: main
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 
 <!-- 
