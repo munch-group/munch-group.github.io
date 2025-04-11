@@ -5,21 +5,33 @@ subtitle: Group members past and present
 menu: main
 ---
 
-<article style="clear: left">
-    <span class="image left"><img src="images/pic04.jpg" alt="" /></span>
-    <h3 class="major">Sed feugiat lorem</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
-    <a href="#" class="special">Learn more</a>
-</article>
 
+{% for member in site.members.present %}
 <article style="clear: left">
-    <span class="image left"><img src="images/pic04.jpg" alt="" /></span>
-    <h3 class="major">Sed feugiat lorem</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
+    <span class="image left"><img src="{{ member.image }}" alt="" /></span>
+    <h3 class="major">{{ member.name }}</h3>
+    <p>{{ member.project }}</p>
     <a href="#" class="special">Learn more</a>
 </article>
+{% endfor %}
 
 <!-- 
+
+<article style="clear: left">
+    <span class="image left"><img src="images/pic04.jpg" alt="" /></span>
+    <h3 class="major">Sed feugiat lorem</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
+    <a href="#" class="special">Learn more</a>
+</article>
+
+<article style="clear: left">
+    <span class="image left"><img src="images/pic04.jpg" alt="" /></span>
+    <h3 class="major">Sed feugiat lorem</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
+    <a href="#" class="special">Learn more</a>
+</article>
+
+
 <article>
 <span class="image left"><img src="images/kasper_portrait.png" style="max-width:200px" /></span>
 <div style="display: block; float: right;" >
@@ -57,7 +69,7 @@ menu: main
 </div>
 </article>
 </div> 
--->
+ -->
 
 <!-- 
 

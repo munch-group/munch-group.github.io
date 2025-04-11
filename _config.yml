@@ -6,8 +6,19 @@ title: Munch Research Group
 description: |
   Population genomics of natural selection,<br>species formation and human neuro-development
 owner: Kasper Munch # or company name
+members:
+  present:
+    - name: Kasper Munch
+      image: images/pic04.jpg
+      position: PI
+      project: Population genomic analysis and modelling to understand the fundamental properties and mechanisms of selection, recombination, and speciation. 
+  former:
+    - name: Jonas Berglund
+      image: images/pic04.jpg
+      position: Postdoc
+      project: Jonas worked on GC-biased gene conversion and stability of hotspots in birds.
 first_published: 2016 # if migrating another site, the year of your first publish
-email: 
+email: kaspermunch@birc.au.dk
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 social:
