@@ -13,6 +13,14 @@ menu: main
 </article>
 
 <article>
+    <span class="image left"><img src="images/pic04.jpg" alt="" /></span>
+    <h3 class="major">Sed feugiat lorem</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing vehicula id nulla dignissim dapibus ultrices.</p>
+    <a href="#" class="special">Learn more</a>
+</article>
+
+<!-- 
+<article>
 <span class="image left"><img src="images/kasper_portrait.png" style="max-width:200px" /></span>
 <div style="display: block; float: right;" >
 <header>
@@ -48,7 +56,8 @@ menu: main
 <p>Johan uses genomic pre-trained networks to compare sequence X chromosome sequence conservation across baboon species.</p>
 </div>
 </article>
-</div>
+</div> 
+-->
 
 <!-- 
 
