@@ -7,8 +7,8 @@ layout: landing
 	<div class="inner">
 		<a href="#" class="image"><img src="images/laptop_cropped.jpg" alt="" /></a>
 		<div class="content">
-			<h2 class="major">Magna arcu feugiat</h2>
-			<p>Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras turpis ante, nullam sit amet turpis non, sollicitudin posuere urna. Mauris id tellus arcu. Nunc vehicula id nulla dignissim dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla cursus.</p>
+			<h2 class="major">Population genomics and evolution</h2>
+			<p>Our research is framed by evolutionary questions and conducted by developing and applying population genetic modelling and inference on full genomes.</p>
 			<a href="#" class="special">Learn more</a>
 		</div>
 	</div>
@@ -19,8 +19,8 @@ layout: landing
 	<div class="inner">
 		<a href="#" class="image"><img src="images/olive_baboon.jpg" alt="" /></a>
 		<div class="content">
-			<h2 class="major">Tempus adipiscing</h2>
-			<p>Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras turpis ante, nullam sit amet turpis non, sollicitudin posuere urna. Mauris id tellus arcu. Nunc vehicula id nulla dignissim dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla cursus.</p>
+			<h2 class="major">X chromosome evolution and hybrid incompatibility</h2>
+			<p>Blah blah.</p>
 			<a href="#" class="special">Learn more</a>
 		</div>
 	</div>
@@ -31,8 +31,8 @@ layout: landing
 	<div class="inner">
 		<a href="#" class="image"><img src="images/lemur.png" alt="" /></a>
 		<div class="content">
-			<h2 class="major">Nullam dignissim</h2>
-			<p>Lorem ipsum dolor sit amet, etiam lorem adipiscing elit. Cras turpis ante, nullam sit amet turpis non, sollicitudin posuere urna. Mauris id tellus arcu. Nunc vehicula id nulla dignissim dapibus. Nullam ultrices, neque et faucibus viverra, ex nulla cursus.</p>
+			<h2 class="major">Intra-genomic conflict and autism</h2>
+			<p>Blah blah.</p>
 			<a href="#" class="special">Learn more</a>
 		</div>
 	</div>

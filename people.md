@@ -11,7 +11,6 @@ menu: main
     <p>PI</p>
 </header>
 
-[ORCID Profile](https://orcid.org/0000-0003-2880-6252) - 
 [kaspermunch@birc.au.dk](mailto:kaspermunch@birc.au.dk)
 
 
@@ -20,18 +19,21 @@ menu: main
     <h3>Shannon D'Urso</h3>
     <p>Postdoc</p>
 </header>
+<br>
 
 <p><span class="image left"><img src="images/erik.png" style="max-width:200px" /></span>Erik works on how intragenomic conflicts shape X chromosome evolution and the development of hybrid incompatibilities between diverging populations.</p>
 <header>
     <h3>Erik Fogh Sørensen</h3>
     <p>PhD student</p>
 </header>
+<br>
 
 <p><span class="image left"><img src="images/placeholder.png" style="max-width:200px" /></span>Johan uses genomic pre-trained networks to compare sequence X chromosome sequence conservation across baboon species.</p>
 <header>
     <h3>Johan Christensen Ulstrup</h3>
     <p>Master student</p>
 </header>
+<br>
 
 ## Former members
 
