@@ -10,8 +10,11 @@ menu: main
 <article style="clear: left">
     <span class="image right"><img src="{{ member.image }}" style="max-width:180px" alt="" /></span>
     <h3 class="major">{{ member.name }}</h3>
-    <p><b>{{ member.position }}</b></p>
-    <p>{{ member.project }}</p>
+    <p>
+    <b>{{ member.position }}</b>
+    <br>
+    {{ member.project }}
+    </p>
 </article>
 {% endfor %}
 
@@ -21,8 +24,11 @@ menu: main
 <article style="clear: left">
     <span class="image right"><img src="{{ member.image }}" style="max-width:180px" alt="" /></span>
     <h3 class="major">{{ member.name }}</h3>
-    <p><b>{{ member.position }}</b></p>
-    <p>{{ member.project }}</p>
+    <p>
+    <b>{{ member.position }}</b>
+    <br>
+    {{ member.project }}
+    </p>
 </article>
 {% endfor %}
 
