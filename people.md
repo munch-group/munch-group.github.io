@@ -4,7 +4,7 @@ title: People
 menu: main
 ---
 
-
+<div style="display: block" >
 <article>
 <span class="image left"><img src="images/kasper_portrait.png" style="max-width:200px" /></span>
 <header>
@@ -13,6 +13,7 @@ menu: main
 </header>
 <p>I apply population genomic analysis and modelling to understand the fundamental properties and mechanisms of selection, recombination, and speciation. Model organisms are mostly humans and other primates.</p>
 </article>
+</div>
 
 <article>
 <span class="image left"><img src="images/shannon.jpeg" style="max-width:200px" /></span>
