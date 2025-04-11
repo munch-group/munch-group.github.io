@@ -15,6 +15,17 @@ menu: main
 </article>
 {% endfor %}
 
+## Former members
+
+{% for member in site.members.former %}
+<article style="clear: left">
+    <span class="image left"><img src="{{ member.image }}" alt="" /></span>
+    <h3 class="major">{{ member.name }}</h3>
+    <p>{{ member.project }}</p>
+    <a href="#" class="special">Learn more</a>
+</article>
+{% endfor %}
+
 <!-- 
 
 <article style="clear: left">
