@@ -5,7 +5,7 @@ layout: landing
 <!-- One -->
 <section id="one" class="wrapper spotlight style1">
 	<div class="inner">
-		<a href="#" class="image"><img src="images/concept-open-door-collage.jpeg" alt="" /></a>
+		<a href="#" class="image"><img src="images/opendoor.jpeg" alt="" /></a>
 		<div class="content">
 			<h2 class="major">Open door research</h2>
 			<p>Our research is framed by evolutionary questions and conducted by developing and applying population genetic modelling and inference on full genomes.</p>
