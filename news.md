@@ -24,7 +24,8 @@ Read the full article [here](https://johnhawks.net/weblog/positive-selection-x-c
 
 ## An X file - the truth is out there
 
-<p><span class="image right"><img src="images/xfiles_cover.png" alt="" width="100"  /></span>
+<p>
+<!-- <span class="image right"><img src="images/xfiles_cover.png" alt="" width="100"  /></span> -->
 Tracing my ancestry into the past spreads my genes thinly across ancestors as these double generation by generation. Each gene thus travels a separate line of ancestors that serve as vessels carrying it through the ages. The only genes I <it>can</it> have are ones that successfully made it from one generation to the next. That is all there is to natural selection. It works on genes, not organisms. Organisms are just vessels, and their fitness only comes into the picture because a gene's contribution to better organism fitness helps the gene get passed to more new vessels in the next generation. If a gene could somehow pass to more new vessels by <it>reducing</it> organism fitness, it would not break the logic of natural selection. Strange as it may seem, this actually happens.
 </p>
 
