@@ -17,11 +17,15 @@ menu: main
  Lauterbur E,  <span style="text-decoration:underline;">Munch K</span>, Enard<br>
 <a href="https://academic.oup.com/mbe/article/40/6/msad139/7194669"><strong>Molecular Biology and Evolution</strong> (2023) </a></p>
 
-<p><span class="image right"><img src="images/science_primateissue.png" width="40"  /></span><strong>Genome-wide coancestry reveals details of ancient and recent male-driven reticulation in baboons</strong><br>
+<p>
+<!-- <span class="image right"><img src="images/science_primateissue.png" width="40"  /></span> -->
+<strong>Genome-wide coancestry reveals details of ancient and recent male-driven reticulation in baboons</strong><br>
 <span style="text-decoration:underline;">Sørensen EF</span>, Harris RA, Zhang L, Raveendran M, Kuderna LFK, Walker JA, Storer JM, Kuhlwilm M, Fontsere C, Seshadri L, Bergey CM, Burrell AS, Bergmann J,Phillips-Conroy JE, Shiferaw F, Chiou KL, Chuma IS, Keyyu JD, Fischer J, Gingras MC, Salvi S, Doddapaneni H, Schierup MH, Batzer MA, Jolly CJ, Knauf S, Zinner D, Farh KKH, Marques-Bonet T, <span style="text-decoration:underline;">Munch K</span>, Roos C, Rogers J<br>
 <a href="https://"><strong>Science</strong> (2023) </a></p>
 
-<p><span class="image right"><img src="images/science_primateissue.png" width="40"  /></span><strong>Pervasive incomplete lineage sorting illuminates speciation and selection processes in primates</strong><br>
+<p>
+<!-- <span class="image right"><img src="images/science_primateissue.png" width="40"  /></span> -->
+<strong>Pervasive incomplete lineage sorting illuminates speciation and selection processes in primates</strong><br>
 Rivas-González I, Rousselle M, Li F, Zhou L, Dutheil JY, <span style="text-decoration:underline;">Munch K</span>, Shao Y, Wu D, Schierup MH, Zhang G<br>
 <a href="https://"><strong>Science</strong> (2023) </a></p>
 
@@ -106,7 +110,9 @@ Bataillon T, Duan J, Hvilsom C, Jin X, Li X, Skov L, Glemin S, <span style="text
 Stevison LS, Woerner AE, Kidd JM, Kelley JL, Veeramah KR, McManus KF, <span style="text-decoration:underline;">Great Ape Genome Project</span>, Bustamante CD, Hammer MF, Wall JD<br>
 <b><a href="http://mbe.oxfordjournals.org/content/33/4/928">Molecular Biology and Evolution</a></b><a href="http://mbe.oxfordjournals.org/content/33/4/928"> (2015)</a></p>
 
-<p><span class="image right"><img src="images/sciencecover.png" width="50"  /></span><strong>Whole Genome Analyses Resolve Early Branches in the Tree of Life of Modern Birds</strong><br>
+<p>
+<!-- <span class="image right"><img src="images/sciencecover.png" width="50"  /></span> -->
+<strong>Whole Genome Analyses Resolve Early Branches in the Tree of Life of Modern Birds</strong><br>
 Jarvis ED, Mirarab S, Aberer AJ, Li B, Houde P, Li C, Ho SYW, Faircloth BC, Nabholz B, Howard JT, Suh A, Weber CC, Fonseca RRd, Li J, Zhang F, Li H, Zhou L, Narula N, Liu L, Ganapathy G, Boussau B, Bayzid MdS, Zavidovych V, Subramanian S, Gabaldón T, Capella-Gutiérrez S, Huerta-Cepas J, Rekepalli B, <span style="text-decoration:underline;">Munch K</span>, Schierup M, Lindow B, Warren WC, Ray D, Green RE, Bruford M, Zhan X, Dixon A, Li S, Li N, Huang Y, Derryberry EP, Bertelsen MF, Sheldon FH, Brumfield RT, Mello CV, Lovell PV, Wirthlin M, Schneider MPC, Prosdocimi F, Samaniego JA, Velazquez AMV, Alfaro-Núñez A, Campos PF, Petersen B, Sicheritz-Ponten T, Pas A, Bailey T, Scofield P, Bunce M, Lambert DM, Zhou Q, Perelman R, Driskell AC, Shapiro B, Xiong Z, Zeng Y, Liu S, Li Z, Liu B, Wu K, Xiao J, Yinqi X, Zheng Q, Zhang Y, Yang H, Wang J, Smeds L, Rheindt FE, Braun M, Fjeldsa J, Orlando L, Barker K, Jønsson KA, Johnson W, Koepfli KP, OBrien S, Haussler D, Ryder OA, Rahbek C, Willerslev E, Graves GR, Glenn TC, McCormack J, Burt D, Ellegren H, Alström P, Edwards SW, Stamatakis A, Mindell DP, Cracraft J, Braun EL, Warnow T, Jun W, Gilbert MTP, Zhang G<br>
 <a href="http://www.sciencemag.org/content/346/6215/1320.abstract"><strong>Science</strong> (2014)</a></p>
 
@@ -118,7 +124,9 @@ Mailund T, <span style="text-decoration:underline;">Munch K</span>, Schierup MH<
 Jacobsen LMW, Pujolar JM, Bernatchez L, <span style="text-decoration:underline;">Munch K</span>, Jian J, Niu Y, Hansen MM.<br>
 <a href="http://onlinelibrary.wiley.com/doi/10.1111/mec.12896/abstract"><strong>Molecular Ecology</strong>&nbsp;(2014)</a></p>
 
-<p><span class="image right"><img src="images/bioessays.gif" width="100"  /></span><strong>Unraveling recombination rate evolution using ancestral recombination maps&nbsp;</strong><br>
+<p>
+<!-- <span class="image right"><img src="images/bioessays.gif" width="100"  /></span> -->
+<strong>Unraveling recombination rate evolution using ancestral recombination maps&nbsp;</strong><br>
 <span style="text-decoration:underline;">Munch K</span>, Schierup MH, Mailund T<br>
 <a href="http://doi.wiley.com/10.1002/bies.201400047"><strong>BioEssays</strong>&nbsp;(2014)</a></p>
 
@@ -204,4 +212,3 @@ Haile J, Holdaway R, Oliver K, Bunce M, Gilbert MT, Nielsen R, <span style="text
 <p><strong>A hidden Markov model approach for determining expression from genomic tiling micro arrays</strong><br>
 <span style="text-decoration:underline;">Munch K</span>, Gardner PP, Arctander P, and Krogh A<br>
 <a href="http://www.biomedcentral.com/1471-2105/7/239/abstract"><strong>BMC Bioinformatics</strong>&nbsp;(2006)</a></p>
-
