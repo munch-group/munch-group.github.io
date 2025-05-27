@@ -5,9 +5,13 @@ subtitle: Contributions from the group
 menu: main
 ---
 
+
+<p>
 <span style="text-align:right;">
-<p>Authors from our group <span style="text-decoration:underline;">underlined</span></p>
+Authors from our group <span style="text-decoration:underline;">underlined</span>
 </span>
+</p>
+
 
 <!-- Jonas bird paper -->
 
