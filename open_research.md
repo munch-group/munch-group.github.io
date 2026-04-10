@@ -12,34 +12,6 @@ Cheers Kasper
 
 ## Inactive
 
-<!-- - Johan
-- Ari
-- Davide
-- Søren
-- relate1Kgenomes
-- primateILS
-- tree-statistics
-- phasetype
-- lewintons paradox
-- autism
-- meiotic drive
-- birds
-- baboons -->
-
 ## Active
 
 ## Completed
-
-
-
-
-<!--
-
-### Simulation of frequency dynamics under meiotic drive
-
-### X chromosome sweeps in African populations
-
-### Admixture and hybrid incompatibility among baboon species
-
--->
-
