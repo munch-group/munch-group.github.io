@@ -2,21 +2,7 @@
 layout: default
 ---
 
-<section id="wrapper">
-  <header>
-    <div class="inner">
-      <h2>{{ page.title }}</h2>
-      <p>{{ page.subtitle }}</p>
-    </div>
-  </header>
+<h1>{{ page.title }}</h1>
+{% if page.subtitle %}<p>{{ page.subtitle }}</p>{% endif %}
 
-    <div class="wrapper">
-      <div class="inner">
-
-        {{ content }}
-
-      </div>
-    </div>
-
-</section>
-
+{{ content }}

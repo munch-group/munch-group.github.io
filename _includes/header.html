@@ -1,26 +1,31 @@
-
 <!-- Header -->
-<header id="header"{% if page.layout == 'landing' %} class="alt"{% endif %}>
-        <h1><a href="index.html">Munch Group</a></h1>
+  <header id="header">
+    <div class="inner">
+
+      <!-- Logo -->
+        <a href="{{ '/' | relative_url }}" class="logo">
+          <span class="title">{{ site.title }}</span>
+        </a>
+
+      <!-- Nav -->
         <nav>
-                <a href="#menu">Menu</a>
+          <ul>
+            <li><a href="#menu">Menu</a></li>
+          </ul>
         </nav>
-</header>
+
+    </div>
+  </header>
 
 <!-- Menu -->
-<nav id="menu">
-        <div class="inner">
-                <h2>Menu</h2>
-                <ul>
-                  <li><a href="index.html">Home</a></li>
-                  {% for my_page in site.pages %}
-                  {% if my_page.title %}
-                    {% if my_page.menu == 'main' %}
-                    <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
-                    {% endif %}
-                  {% endif %}
-                  {% endfor %}
-                </ul>
-                <a href="#" class="close">Close</a>
-        </div>
-</nav>
+  <nav id="menu">
+    <h2>Menu</h2>
+    <ul>
+      <li><a href="{{ '/' | relative_url }}">Home</a></li>
+      {% for my_page in site.pages %}
+        {% if my_page.menu == 'main' %}
+          <li><a href="{{ my_page.url | relative_url }}">{{ my_page.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </nav>
