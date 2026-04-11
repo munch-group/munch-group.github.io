@@ -1,6 +1,6 @@
 ---
 layout: landing
-banner: images/bannerbig.jpg
+banner: images/highres_banner.png
 ---
 
 <div class="container">
@@ -43,7 +43,7 @@ banner: images/bannerbig.jpg
 <section class="landing-section">
 <div class="container">
 
-<h2>Research areas</h2>
+<h2>Active research projects</h2>
 
 <div class="research-grid">
   <div class="research-card">
