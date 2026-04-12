@@ -1,0 +1,14 @@
+[workspace]
+authors = ["Kasper Munch <kaspermunch@birc.au.dk>"]
+channels = ["conda-forge", "munch-group"]
+name = "munch-group.github.io"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+ruby = ">=4.0.2,<5"
+c-compiler = ">=1.11.0,<2"
+make = ">=4.4.1,<5"
+cxx-compiler = ">=1.11.0,<2"
