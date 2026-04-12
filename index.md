@@ -5,7 +5,7 @@ layout: landing
 <section class="tiles">
   <article>
     <a href="hypotheses">
-      <h2>Sex-chromosome meiotic drive</h2>
+      <h2>Working hypotheses</h2>
       <span class="image">
         <img src="images/xy-auto-armsrace.png" alt="" />
       </span>
@@ -15,18 +15,18 @@ layout: landing
     </a>
   </article>
   <article>
-    <a href="research">
+    <a href="autism">
       <h2>Sex chromosomes and autism</h2>
       <span class="image">
         <img src="images/brain_with_dots.png" alt="" />
       </span>
       <div class="content">
-        <p>Exploring how intragenomic conflicts in spermatogenesis shape the genetic basis of autism spectrum disorders.</p>
+        <p>We explore how intragenomic conflicts in spermatogenesis shape the genetic basis of autism spectrum disorders.</p>
       </div>
     </a>
   </article>
   <article>
-    <a href="research">
+    <a href="hybrid_incomp">
       <h2>Hybrid incompatibility</h2>
       <span class="image">
         <img src="images/olive_baboon_cropped.png" alt="" />
@@ -37,7 +37,7 @@ layout: landing
     </a>
   </article>
   <article>
-    <a href="research">
+    <a href="modeling">
       <h2>Population genetic modeling</h2>
       <span class="image">
         <img src="images/jointprob.png" alt="" />
