@@ -4,10 +4,10 @@ layout: landing
 
 <section class="tiles">
   <article>
-    <a href="research">
+    <a href="hypotheses">
       <h2>Sex-chromosome meiotic drive</h2>
       <span class="image">
-        <img src="images/xfiles_cover_small_square.png" alt="" />
+        <img src="images/xy-auto-armsrace.png" alt="" />
       </span>
       <div class="content">
         <p>We model and analyze patterns of genetic diversity across populations of humans and other primates — with a special focus on sex chromosome evolution.</p>
@@ -59,13 +59,13 @@ layout: landing
     </a>
   </article>
   <article>
-    <a href="open_research">
-      <h2>Open research</h2>
+    <a href="teaching">
+      <h2>Teaching</h2>
       <span class="image">
-        <img src="images/opendoor.png" alt="" />
+        <img src="images/teaching.jpeg" alt="" />
       </span>
       <div class="content">
-        <p>Trust, transparency, sharing and collaboration. We share our progress and ideas openly.</p>
+        <p>We teach courses in Bioinformatics and Population Genomics.</p>
       </div>
     </a>
   </article>
