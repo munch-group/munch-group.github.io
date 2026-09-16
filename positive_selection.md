@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modeling
-menu: main
+# menu: main
 ---
 
 ## Population genetic modeling

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open-door research
-menu: main
+# menu: main
 ---
 
 I believe that trust, transparency, and collaboration is how we best support collective scientific advance. In the hopes that others sharing our goals and interests will adopt inactive ideas or pilots, we make all stages of our research available in a way that makes this possible. To avoid wasting the best years of young researchers on duplicate research, we hope you will let us know you intend to do so.
