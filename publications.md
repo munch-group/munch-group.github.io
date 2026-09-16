@@ -13,11 +13,23 @@ Authors from our group <span style="text-decoration:underline;">underlined</span
 </p>
 
 
-<!-- Jonas bird paper -->
+<!-- BioRxiv -->
+
+<p><strong>Negative selection on baboon admixture is strongest on chromosome X</strong><br>
+<span style="text-decoration:underline;">Sørensen EF</span>, Hellenthal G, <span style="text-decoration:underline;">Munch K</span>
+<a href="https://www.biorxiv.org/content/10.1101/2024.12.18.629079v1.abstract"><strong>BioRxiv</strong></a></p>
 
 <p><strong>Viruses rule over adaptation in conserved human proteins</strong><br>
 <span style="text-decoration:underline;">Castellano D</span>, Uricchio LH, <span style="text-decoration:underline;">Munch K</span>, Enard D
 <a href="https://www.science.org/doi/10.1126/science.abn8153"><strong>BioRxiv</strong></a></p>
+
+<!-- IN PRESS -->
+
+<p><strong>A curated genome-scale nucleotide diversity panel of non-human primates</strong><br>
+ Pankratov V, Pedersen BM, Sørensen EF, <span style="text-decoration:underline;">Munch K</span>, Bataillon T, Schierup MH, Bergman J <br>
+<a href="https://academic.oup.com/mbe/article/40/6/msad139/7194669"><strong>Genome Biology</strong> IN PRESS </a></p>
+
+<!-- Published -->
 
 <p><strong>Versatile detection of diverse selective sweeps with Flex-sweep</strong><br>
  Lauterbur E,  <span style="text-decoration:underline;">Munch K</span>, Enard<br>
