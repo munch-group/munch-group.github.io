@@ -23,13 +23,24 @@ Authors from our group <span style="text-decoration:underline;">underlined</span
 <span style="text-decoration:underline;">Castellano D</span>, Uricchio LH, <span style="text-decoration:underline;">Munch K</span>, Enard D
 <a href="https://www.science.org/doi/10.1126/science.abn8153"><strong>BioRxiv</strong></a></p>
 
+
+
+<!-- Transcriptomic differences in X- and Y-carrying gametes are associated with regions under positive selection on the human X-chromosome -->
+
+
 <!-- IN PRESS -->
+
+
+<!-- Published -->
+
+<p><strong>Genome-wide scan for transmission ratio distortion in trios from the Norwegian MoBa cohort rules out moderate distortion at common variants</strong><br>
+<span style="text-decoration:underline;">D’Urso</span> Corfield SEC, Hannigan LJ, Andreassen OA, Jugessur A, <span style="text-decoration:underline;">Munch K</span>, Smith GD, Hemani G, Hwang LD, Moen, GH Havdahl A, Evans DM<br>
+<a href="https://link.springer.com/article/10.1186/s13059-026-04333-2"><strong>Genome Biology</strong> (2026)</a></p>
 
 <p><strong>A curated genome-scale nucleotide diversity panel of non-human primates</strong><br>
  Pankratov V, Pedersen BM, Sørensen EF, <span style="text-decoration:underline;">Munch K</span>, Bataillon T, Schierup MH, Bergman J <br>
-<a href="https://academic.oup.com/mbe/article/40/6/msad139/7194669"><strong>Genome Biology</strong> IN PRESS </a></p>
+<a href="https://link.springer.com/article/10.1186/s13059-026-04286-6"><strong>Genome Biology</strong> (2026)</a></p>
 
-<!-- Published -->
 
 <p><strong>Versatile detection of diverse selective sweeps with Flex-sweep</strong><br>
  Lauterbur E,  <span style="text-decoration:underline;">Munch K</span>, Enard<br>
